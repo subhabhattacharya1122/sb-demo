@@ -1,4 +1,4 @@
 # sb-demo
 This is my first Git Repository
 <br>
-Author-Subhajit Bhattacharya
+Author-Subhajit(jack)
